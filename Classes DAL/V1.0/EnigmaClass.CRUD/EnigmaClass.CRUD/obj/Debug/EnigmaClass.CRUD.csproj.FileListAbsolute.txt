@@ -1,0 +1,7 @@
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\bin\Debug\EnigmaClass.CRUD.dll
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\bin\Debug\EnigmaClass.CRUD.pdb
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\bin\Debug\EnigmaClass.dll
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\obj\Debug\EnigmaClass.CRUD.csprojResolveAssemblyReference.cache
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\obj\Debug\EnigmaClass.CRUD.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\obj\Debug\EnigmaClass.CRUD.dll
+C:\Users\ryanm\Desktop\APPEnigma\Biblioteca de Classe\Classes DAL\V1.0\EnigmaClass.CRUD\EnigmaClass.CRUD\obj\Debug\EnigmaClass.CRUD.pdb
